@@ -1,2 +1,2 @@
 # my-img-repo
-self img repo
+openhe的图床仓库
